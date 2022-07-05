@@ -4,7 +4,6 @@
 
 ## Proje1 
 ![](/assets/insert.png)
-[22,27,16,2,18,6] -> Insertion Sort
 
 1. Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
@@ -95,6 +94,6 @@
  ###### CEVAP1
  ![](/assets/binarySearchSolution.png)
 ### 
- 
+ More info : https://www.youtube.com/watch?v=FvdPo8PBQtc
  
  
