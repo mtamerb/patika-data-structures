@@ -56,7 +56,7 @@
  ###
  
  
- ![](/assets/insert.png)
+ ![](/assets/merge.png)
 ## Proje2
  
  
