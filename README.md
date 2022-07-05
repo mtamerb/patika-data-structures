@@ -56,4 +56,16 @@
  ###
  
  
+ ![](/assets/insert.png)
+## Proje2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  More info : https://bilgisayarkavramlari.com/2008/12/12/sokma-siralamasi-ekleme-siralamasi-insertion-sorting/
