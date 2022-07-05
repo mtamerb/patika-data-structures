@@ -87,5 +87,14 @@
       Average case : O(n*logn)
       Worst case   : O(n*logn)
 ###   
- 
  More info : https://bilgisayarkavramlari.com/2008/08/09/birlestirme-siralamasi-merge-sort/
+
+
+## Proje3
+ ![](/assets/bsTree.png)
+ ###### CEVAP1
+      ![(/assets/binarySearchSolution.png)
+### 
+ 
+ 
+ 
