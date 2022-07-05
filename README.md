@@ -93,7 +93,7 @@
 ## Proje3
  ![](/assets/bsTree.png)
  ###### CEVAP1
-      ![(/assets/binarySearchSolution.png)
+ ![](/assets/binarySearchSolution.png)
 ### 
  
  
